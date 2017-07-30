@@ -1,4 +1,4 @@
-# National Locality
+# Fiber-USA
 Linking local movements to change or move a National issue 
 
 test case: national fiber
@@ -12,6 +12,26 @@ Bringing everyone fiber is not an easy issue, but I think if a local movments wi
 
 I am not a leader, a starter maybe. I've got more ideas but I'd rather see people fork and add what they think we need first.
 
+# Physical Equipment Needs
+
+-- No Clue
+
+# Internet Organizational Needs
+https://fiber-usa.slack.com 
+
+invite: https://join.slack.com/t/fiber-usa/shared_invite/MjIwNTYwNzg2OTgyLTE1MDE0NDkzMDItMjY2N2I3MDg1Zg
+
+## Needed:
+
+(more than I know)
+
+subreddit
+
+twitter?
+
+webpage?
+
+...
 
 
 CC4 Copyleft 2017 J. Morio Sakaguchi
