@@ -14,4 +14,4 @@ I am not a leader, a starter maybe. I've got more ideas but I'd rather see peopl
 
 
 
-CC 4 Copyleft 2017 J. Morio Sakaguchi
+CC4 Copyleft 2017 J. Morio Sakaguchi
